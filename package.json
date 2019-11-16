@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/mrabello23/node-course/issues"
   },
-  "homepage": "https://github.com/mrabello23/node-course#readme"
+  "homepage": "https://github.com/mrabello23/node-course#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "nock": "^11.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
 }
